@@ -65,6 +65,33 @@ To access the weather data, you need an API key from OpenWeather.
 - React: Front-end library for building user interfaces.
 - OpenWeather API: To fetch real-time weather data.
 
+
+## Screenshots
+
+### 1. Default Page
+
+This is the landing page that users see when they first visit the Weather Dashboard.
+
+![Default Page](https://github.com/user-attachments/assets/116130a5-88d2-4156-957e-f620dd9e41d6)
+
+---
+
+### 2. Correct City Entry
+
+When a valid city is entered, the weather information is displayed.
+
+![Write correct msg output](https://github.com/user-attachments/assets/0f7bd2cf-beff-4717-94f1-a619f065035a)
+
+---
+
+### 3. Invalid City Entry
+
+If a non-existent or invalid city is entered, users are shown an error message.
+
+![Msg for Writing wrong city](https://github.com/user-attachments/assets/5dae7bde-9dfa-4b29-98df-30c4f2d9a956)
+
+---
+
 ## Contributing
 
 To run this blog locally:
